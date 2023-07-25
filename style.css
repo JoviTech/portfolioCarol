@@ -31,7 +31,15 @@ nav {
   grid-area: timeline;
 
   overflow-y: scroll;
+
+  text-align: justify;
+  
 }
+
+.memorial{
+  text-align: center;
+}
+
 
 .memory {
   display: flex;
