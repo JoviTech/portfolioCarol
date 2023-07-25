@@ -94,7 +94,7 @@ aside {
   border-right: 1px solid;
   border-image: linear-gradient(#727275, #2c2c31) 1;
 
-  background-image: url(./imgs/aside/background.jpg);
+  /* background-image: url(./imgs/aside/background.jpg); */
   background-position: top right;
   background-repeat: no-repeat;
   background-size: auto 100%;
